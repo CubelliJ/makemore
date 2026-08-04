@@ -9,6 +9,8 @@ In this case, the file on the ./data/ folder is a list of the most common names 
 
 We'll try to build a Language Model that allows us to "Make More Words" using several techniques.
 
+Going from the start up makes me refresh lots of concepts I saw at university which I had rusted upon.
+
 ## Usage
 
 TODO
